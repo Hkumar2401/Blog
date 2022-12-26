@@ -1,0 +1,67 @@
+@media screen and (max-width:992px){
+
+    .display-top-article-img-box{
+        text-align: center;
+    }
+
+    .display-top-article-img{
+        width: 720px;
+        height: 400px;
+    }
+
+    .display-top-article-content-box{
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .second-column-images{
+        width: 150px;
+        height: 190px;
+    }
+
+    .second-column-first-article-content{
+        padding-left: 40px;
+        padding-bottom: 10px;
+    }
+
+    .second-column-second-article-content{
+        padding-left: 40px;
+        padding-bottom: 10px;
+    }
+
+    .second-column-third-article-content{
+        padding-left: 40px;
+        padding-bottom: 10px;
+    }
+    
+    .trending-on-medium-screen{
+        margin-top: 100px;
+    }
+
+    .see-all-trends{
+        display: block;
+        margin-top: 40px;
+        padding-left: 15vw;
+    }
+
+    .business-section{
+        margin-top: 50px;
+    }
+
+    .popular-post-section{
+        margin-top: 50px;
+    }
+
+    .email-input{
+        width: 200px;
+        margin-left: 50px;
+    }
+
+    
+
+    .send-btn{
+        margin-left: 100px !important;
+    }
+   
+
+}

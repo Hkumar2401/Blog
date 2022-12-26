@@ -1,0 +1,288 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.8;
+}
+
+.content-width{
+    width: 70%;
+    margin: 30px auto 30px;
+}
+
+.margin-top{
+    margin-top: 100px;
+}
+
+.margin-bottom{
+    margin-bottom: 50px;
+}
+
+.margin-top-double{
+    margin-top: 200px;
+}
+
+
+.padding-top-bottom{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.padding-top-10{
+    padding-top: 10px;
+}
+
+
+
+.navbar {
+    display: block;
+}
+
+.brand-name {
+    font-size: 40px;
+
+}
+
+.brand-name:hover {
+    color: #8bc34a;
+    cursor: pointer;
+}
+
+.search-bar {
+    border-width: 0 0 1px;
+    border-color: gray;
+    border-radius: 20px;
+    padding: 10px;
+    outline: none;
+}
+
+.search-icon {
+    width: 30px;
+    filter: invert(100%);
+}
+
+.btn-search {
+    border: none;
+    border-radius: 30px;
+}
+
+.btn-search:hover {
+    
+    background-color: #8bc34a;
+}
+
+.btn-socials{
+    background-color: white;
+    border: none;
+    margin: 0 15px 0;
+}
+
+.btn-socials:hover{
+    opacity: 0.7;
+}
+
+.icon{
+    width: 20px;
+    padding-top: 16px;
+}
+
+.icon-fb{
+    width: 15px;
+}
+
+
+li.nav-item{
+    margin: 0 20px 0 0;
+}
+
+
+/* body(class)*/
+
+.content{
+    margin: 100px 0 0;
+}
+
+.display-top-article-img{
+    width: 600px;
+    height: 435px;
+}
+
+.display-top-article-img-box{
+    text-align: right;
+    padding-right: 0;
+}
+
+.display-top-article-content-box{
+    padding: 20px 90px 10px 50px;    
+    background-color: #f8f9fa;
+}
+
+.display-top-aricle-content-box-remark{
+    color: #6c757d;
+    font-weight: 400;
+    opacity: 0.7;
+}
+
+.display-top-article-content-box-article{
+
+    word-spacing: 1;
+    letter-spacing: 0.6;
+    margin: 30px 0 20px;
+
+}
+
+.credits{
+    font-size: 14px;
+    color: #6c757d;
+    margin-bottom: 0;
+
+}
+
+.credits a{
+    text-decoration: none;
+    color: black;
+}
+
+.article-shuffler{
+    display: block;
+    text-align: center;
+}
+
+.article-shuffle{
+    display: inline-block;
+    margin: 80px 0 10px;
+    text-align: center;
+    font-size: 70px;
+    color: #CCCCCC;
+    letter-spacing: 8px;
+
+}
+
+.underline-heading{
+    text-decoration: underline;
+}
+
+.editors-pick-main-img{
+    width: 100%;
+    margin: 40px 0 40px;
+}
+
+.editors-pick-main-content{
+    margin-top: 30px;
+    
+}
+
+
+
+.second-column-articles{
+    /* background-color: #3e8cd9; */
+    margin-top: 78px;
+}
+
+.second-column-images{
+    width: 150px;
+    height: 120px;
+}
+
+.second-column-first-article{
+    background-color: #f8f9fa;
+    padding-left: 0;
+    
+}
+
+.second-column-second-article{
+    margin-top: 30px;
+    background-color: #f8f9fa;
+}
+
+.second-column-third-article{
+    margin-top: 30px;
+    background-color: #f8f9fa;
+}
+
+.numbers-third-column{
+    color: #cccccc;
+}
+
+.see-all-trends{
+    margin-top: 0;
+    padding-left: 65vw;
+    text-decoration: none;
+    color:#8bc34a;
+}
+
+.see-all-trends:hover{
+    color: #223809;
+}
+
+.another-display-top-article{
+    margin-top: 150px;
+}
+
+.politcs-and-business-images{
+    width: 160px;
+    height: 175px;
+
+}
+
+.politics-and-business-image-column{
+    max-width: 160px;
+    max-height: 170px;
+}
+
+.politics-and-business-content-column{
+    padding: 10px;
+    margin-top: 45px;
+}
+
+.politics-and-business-content-column-after1{
+    padding: 10px;
+    margin-top: 7px;
+}
+
+.politics-and-business-content-para-font{
+    line-height: 1.5;
+}
+
+.recent-news-images{
+    width: 230px;
+    height: 153px;
+}
+
+
+
+
+.footer{
+    background-color: #f8f9fa;
+}
+
+.email-input{
+    width: 400px;
+    height: 50px;
+    margin-top: 34px;
+    padding: 20px;
+    border-width: 0 0 1px;
+    border-radius: 20px;
+    outline: none;
+}
+
+.send-icon-img{
+    width: 30px;
+    padding: 5px 0 0;
+    filter: invert(100%);
+    
+}
+
+.send-btn{
+    border: none;
+    border-radius: 27px;
+    margin-top: 33px;
+}
+
+.send-btn:hover{
+    cursor: pointer;
+    background-color: #8bc34a;
+}
+
+.copyright-msg{
+    text-align: center;
+    margin-bottom: 40px;
+}
